@@ -1,0 +1,82 @@
+<html>
+<head>
+    <link title="timeline-styles" rel="stylesheet" 
+              href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- <script type="text/javascript" language="javascript" src="whitney.json"></script>-->
+    
+    <script type="text/javascript">
+        $.getJSON("ml.json", function (data) {
+                var timeline_json = data;
+            window.timeline = new TL.Timeline('timeline-embed', timeline_json);
+            });
+    </script>
+</head>
+<body>      
+    <div id='timeline-embed' style="width: 100%; height: 700px; color: rgb(53, 90, 158)"></div>
+              <footer style="background:#171717; color:#fff; padding:20px; margin-top:30px;">
+    <h3 style="margin-bottom:15px;">References</h3>
+
+    <p>Anjana Priya. (2024, December 17). <i>A Timeline of Machine Learning: Past, Present, and the Future Ahead.</i> Medium. 
+        <a href="https://medium.com/@anjanapriya682/a-timeline-of-machine-learning-past-present-and-the-future-ahead-0b7cc9e07809" 
+           target="_blank" style="color:#00aced;">
+           https://medium.com/...future-ahead-0b7cc9e07809
+        </a>
+    </p>
+
+    <p>Kleppen, E. (2023, January 12). <i>What Is the Turing Test? (Definition, Examples, History) | Built In.</i> Builtin.com. 
+        <a href="https://builtin.com/artificial-intelligence/turing-test" 
+           target="_blank" style="color:#00aced;">
+           https://builtin.com/artificial-intelligence/turing-test
+        </a>
+    </p>
+
+    <p>aRobotKR. (2024, July 11). <i>Arthur Samuel: Early Machine Learning and Checkers Program | Robots Authority.</i> Robots Authority. 
+        <a href="https://robotsauthority.com/arthur-samuel-early-machine-learning-and-checkers-program/" 
+           target="_blank" style="color:#00aced;">
+           https://robotsauthority.com/arthur-samuel...
+        </a>
+    </p>
+
+    <p>Dartmouth. (2025). <i>Artificial Intelligence (AI) Coined at Dartmouth.</i> Home.dartmouth.edu. 
+        <a href="https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth" 
+           target="_blank" style="color:#00aced;">
+           https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth
+        </a>
+    </p>
+
+    <p>Sejnowski, T. J. (1986). Computational neuroscience. <i>Behavioral and Brain Sciences, 9</i>(1), 104–105. 
+        <a href="https://doi.org/10.1017/s0140525x00021713" 
+           target="_blank" style="color:#00aced;">
+           https://doi.org/10.1017/s0140525x00021713
+        </a>
+    </p>
+
+    <p><i>Heroes of Deep Learning: Geoffrey Hinton.</i> (n.d.). Deeplearning.ai. 
+        <a href="https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/" 
+           target="_blank" style="color:#00aced;">
+           https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/
+        </a>
+    </p>
+
+    <p>Jeffrey Dean. (2023). Research.google. 
+        <a href="https://research.google/people/jeff/?&type=google" 
+           target="_blank" style="color:#00aced;">
+           https://research.google/people/jeff/
+        </a>
+    </p>
+
+    <p>Kay, G. (2023, February 1). <i>The history of ChatGPT creator OpenAI, which Elon Musk helped found before parting ways and criticizing.</i> Business Insider. 
+        <a href="https://www.businessinsider.com/history-of-openai-company-chatgpt-elon-musk-founded-2022-12" 
+           target="_blank" style="color:#00aced;">
+           https://www.businessinsider.com/history-of-openai...
+        </a>
+    </p>
+</footer>
+
+</body>
+</body>
+</html>
