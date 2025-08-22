@@ -1,0 +1,247 @@
+{
+	"title": {
+		"media": {
+            "url": "https://i.pinimg.com/1200x/38/5e/d7/385ed712e43c1db062f3d62f0de0b2a8.jpg",
+            "credit": "Forbes"
+    },
+		"text": {
+			"headline": "Machine Learning<br/> 1950-2015",
+			"text": "<p>Prominent figures in machine learning that have revolutionized how machines learn, shaping the future of AI through groundbreaking research and visionary leadership.</p>"
+		},
+		 "background": {
+            "color": "#171717"
+       }
+	   
+	},
+
+	"events": [
+		{
+			"media": {
+				"url": "https://openlysecular.org/wp-content/uploads/2014/09/alanturing2pic.jpg",
+				"credit": "Openly Secular"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "Alan Turing",
+				"text": "<p>In the 1950's, Alan Turing made an experiment called the Turing Test. It is a way for determining a machine's ability to respond and think like a human. The Turing Test is still widely regarded as a standard for determining the progress of AI development.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+		{
+			"media": {
+				"url": "https://methodshop.com/wp-content/uploads/turing-test-diagram-image-2048x1152.jpg",
+				"credit": "Method Shop"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "Turing Test",
+				"text": "<p>It arose from a thought experiment in which Turing created what he initially dubbed The Imitation Game. The Turing Test asks questions to both a computer and a human to determine which is human. The computer passes if it is indistinguishable from a person.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+
+
+		{
+			"media": {
+				"url": "https://historyofinformation.com/images/_Arthur_Samuel_big.jpg",
+				"credit": "Waihicol School"
+			},
+			"start_date": {
+				"year": "1952"
+			},
+			"text": {
+				"headline": "Arthur Samuel",
+				"text": "<p>Samuel's research showed that computers might go beyond basic programmed commands and learn from their experiences. His checkers program did more than merely play the game; it also improved its performance over time. This was a watershed moment in AI, demonstrating how algorithms could be applied to decision-making and strategic analysis.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+			
+		},
+		{
+			"media": {
+				"url": "https://cdn.mobygames.com/promos/3443641-the-samuel-checkers-playing-program-other-arthur-samuel-plays-ch.jpg",
+				"credit": "Moby Games"
+			},
+			"start_date": {
+				"year": "1952"
+			},
+			"text": {
+				"headline": "Self-learning Checkers Program",
+				"text": "<p>Unlike typical computer programs, which rely on pre-programmed rules and strategies, Samuel's program is designed to learn from its mistakes and adjust its gameplay accordingly. This technique enabled the program to assess the results of its actions and alter its plan in response to feedback. By playing thousands of games against itself, the program was able to fine-tune its gameplay and grow progressively skilled at checkers.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+			
+		},
+
+
+
+		{
+			"media": {
+				"url": "https://photo2.tinhte.vn/data/attachment-files/2023/05/6426429_Screenshot_2023-05-11_142805.jpg",
+				"credit": "Tinh tế"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": "John McCarthy, Martin Minsky, Claude Shannon, and Nathaniel Rochester",
+				"text": "<p>In 1956, a small group of scientists including John McCarthy, Martin Minsky, Claude Shannon, and Nathaniel Rochester led the Dartmouth Summer Research Project on Artificial Intelligence, which marked the birth of this field of study.<p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+				{
+			"media": {
+				"url": "https://th.bing.com/th/id/OIP.iBY60ZgDggh08cGVZKXn6QHaE9?w=260&h=180&c=7&r=0&o=7&pid=1.7&rm=3",
+				"credit": "AIWS"
+			},
+			"start_date": {
+				"year": "1956"
+			},
+			"text": {
+				"headline": "Darmouth Conference",
+				"text": "<p>A select group of scientists met at Dartmouth College in New Hampshire. The Dartmouth Summer Research Project on Artificial Intelligence sought to determine whether a machine could imitate human intelligence. The primary goal was to see if certain aspects of intelligence might be successfully broken down. That is, to determine whether language, reasoning, or learning can be defined precisely enough for a machine to imitate.<p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+
+
+
+		{
+			"media": {
+				"url": "https://tse4.mm.bing.net/th/id/OIP.0V4xPBsYnAIYKmdpGwpGJQHaJo?rs=1&pid=ImgDetMain&o=7&rm=3",
+				"credit": "History of Information"
+			},
+			"start_date": {
+				"year": "1958"
+			},
+			"text": {
+				"headline": "Frank Rosenblatt",
+				"text": "<p>Frank Rosenblatt’s invention of the Perceptron in 1958 was hailed as a groundbreaking step in artificial intelligence. Often described as “the first machine capable of having an original idea,” the Perceptron was an early neural network model designed to simulate the way the human brain processes visual information and learns from experience.<p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+				{
+			"media": {
+				"url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2019-09/0925_rosenblatt_main.jpg?itok=BCWmlVvO",
+				"credit": "Cornell Chronicle"
+			},
+			"start_date": {
+				"year": "1958"
+			},
+			"text": {
+				"headline": "Perceptron",
+				"text": "<p>Is a 5-ton computer the size of a room. It was fed a series of punch cards. After 50 trials, the computer taught itself to distinguish cards marked on the left from cards marked on the right.<p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+
+
+
+		{
+			"media": {
+				"url": "https://tse2.mm.bing.net/th/id/OIP.Yv1Os7HSsAFfBqSB1sdnxwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+				"credit": "Salk"
+			},
+			"start_date": {
+				"year": "1986"
+			},
+			"text": {
+				"headline": "Terry Sejnowski",
+				"text": "<p>Terry Sejnowski's NETtalk taught itself to pronounce English words in a way that resembled how children learn to read aloud. Instead of relying on hand-coded linguistic rules, NETtalk used a neural network trained with backpropagation to map sequences of letters into phonemes. Over time, the system moved from “babbling” outputs to producing intelligible speech, showing that connectionist models could learn the complex rules and exceptions of English pronunciation from examples. This was one of the earliest demonstrations that neural networks could generalize to novel words, resist damage gracefully, and capture linguistic regularities in a biologically inspired way—laying important groundwork for modern speech recognition and natural language processing systems.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+
+		{
+			"media": {
+				"url": "data:image/webp;base64,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",
+				"credit": "Mpost"
+			},
+			"start_date": {
+				"year": "2006"
+			},
+			"text": {
+				"headline": "Geoffrey Hinton",
+				"text": "<p>In 2006, Geoffrey Hinton introduced deep learning to the world, showing how multilayer neural networks could be efficiently trained. This breakthrough reignited interest in neural networks after years of skepticism and laid the foundation for today’s AI revolution. Building on his earlier contributions—including backpropagation (1986) and Boltzmann Machines—Hinton’s 2006 work opened the door to advances in computer vision, speech recognition, and natural language processing, establishing him as the “Godfather of Deep Learning.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+				
+
+		{
+			"media": {
+				"url": "https://celebclan.com/wp-content/uploads/2022/11/Jeff-Dean-1024x770.jpg",
+				"credit": "CelebClan"
+			},
+			"start_date": {
+				"year": "2011"
+			},
+			"text": {
+				"headline": "Jeff Dean",
+				"text": "<p>Under Dean’s leadership, Google Brain created breakthroughs such as training massive networks on thousands of CPUs, pioneering deep learning at scale, and later contributing to the development of TensorFlow, Google’s open-source machine learning framework. These innovations not only advanced Google’s products—like speech recognition, translation, and image search—but also accelerated the global adoption of deep learning across academia and industry.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+				{
+			"media": {
+				"url": "https://www.gizlogic.com/wp-content/uploads/2023/03/Google-Brain.jpg",
+				"credit": "GizLogic"
+			},
+			"start_date": {
+				"year": "2011"
+			},
+			"text": {
+				"headline": "Google Brain",
+				"text": "<p>Google Brain was launched as a deep learning research project at Google. It focused on training large-scale neural networks using Google’s computational power, leading to major advances in speech recognition, image classification, and natural language processing. </p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		},
+
+
+		{
+			"media": {
+				"url": "https://helios-i.mashable.com/imagery/articles/01J2NvYdGOXXcoGUWo5H52l/hero-image.fill.size_1248x702.v1700506585.jpg",
+				"credit": "Mashable"
+			},
+			"start_date": {
+				"year": "2015"
+			},
+			"text": {
+				"headline": "Elon Musk and Sam Altman ",
+				"text": "<p>Elon Musk and Sam Altman co-founded OpenAI, a nonprofit research lab with the mission to ensure that artificial general intelligence (AGI) benefits all of humanity. The organization was launched with a pledge of $1 billion in funding and a commitment to open collaboration in AI research. Which led OpenAI through major breakthroughs such as GPT language models and partnerships with Microsoft.</p>"
+			},
+			"background": {
+                "color": "#171717"
+            }
+		}
+		
+
+	]
+}
